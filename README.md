@@ -20,7 +20,7 @@ It's a website where user can make their custom task list .
 ## Screenshots
 
 <img src="screenshots/Screenshot1.png">
-<img src="screenshots/Screenshot2.png">
+<img src="screenshots/Screenshot2.jpg">
 <img src="screenshots/Screenshot3.png">
 
 
